@@ -5,7 +5,7 @@ export const Bio = {
     "I am a passionate React JS Developer with a creative flair for crafting immersive digital experiences ✨",
   github: "https://github.com/mahi137",
   resume:
-    "https://drive.google.com/file/d/1Thr8Q4Vp7oUzXt9tSKjUaIo5DhAixMj3/view",
+    "https://drive.google.com/file/d/1U6W9eM7MhgUtc1T4A3YmCt74WHhC-yCF/view",
   linkedin: "https://www.linkedin.com/in/mohid-shaik-9367b3380/",
   twitter: "https://twitter.com/login",
   insta: "https://www.instagram.com/accounts/login/",
