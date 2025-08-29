@@ -48,7 +48,6 @@ function App() {
           <HeroSection />
           <Wrapper>
             <Skills />
-            <GithubGraph />
             <Experience />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />

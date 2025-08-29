@@ -47,7 +47,7 @@ const index = () => {
   return (
     <Container>
       <Wrapper>
-        <GitHubCalendar  username="kaustavsarkar14"  />
+        <GitHubCalendar username="mahi137" />
       </Wrapper>
     </Container>
   );

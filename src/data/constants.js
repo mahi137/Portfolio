@@ -1,12 +1,12 @@
 export const Bio = {
   name: "SHAIK MOHID",
-  roles: ["MERN Stack Developer🚀"],
+  roles: ["Software Engineer 🚀"],
   description:
-    "I am a passionate developer with a creative flair for crafting immersive digital experiences ✨",
+    "I am a passionate React JS Developer with a creative flair for crafting immersive digital experiences ✨",
   github: "https://github.com/mahi137",
   resume:
-    "https://drive.google.com/file/d/1N92hB_5fJEhnS0gwGg-k7vnf5pZvkZNI/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/mohid-shaik-15a6a3233/",
+    "https://drive.google.com/file/d/1Thr8Q4Vp7oUzXt9tSKjUaIo5DhAixMj3/view",
+  linkedin: "https://www.linkedin.com/in/mohid-shaik-9367b3380/",
   twitter: "https://twitter.com/login",
   insta: "https://www.instagram.com/accounts/login/",
 };
@@ -86,6 +86,11 @@ export const skills = [
         image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
+        name: "GitHub",
+        image:
+          "data:image/png;base64,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",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -105,25 +110,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  // {
-  //   id: 0,
-  //   img: "https://d1rz4ui464s6g7.cloudfront.net/wp-content/uploads/2020/09/01141237/.jpg",
-  //   role: "Intern",
-  //   company: "ACCIO JOB",
-  //   date: "Mar 2023 - Mar 2024",
+  {
+    id: 0,
+    img: "https://www.lancequilts.com/img/Lancesoft%20New.png",
+    role: "Software Engineer (React JS Developer)",
+    company: "Lance Soft Engineering",
+    date: "June 2022 - Present",
+    desc: "Worked as a core ReactJS developer for enterprise-level projects across automotive and fintech domains. Developed reusable React components, optimized Redux store, and implemented global state management.",
+    skills: ["React JS", "Redux", "JavaScript", "Node.js", "Micro Frontends"],
+  },
+  //   {
+  //   id: 1,
+  //   img: "https://www.lancequilts.com/img/Lancesoft%20New.png",
+  //   role: "Software Engineer (React JS Developer)",
+  //   company: "Lance Soft Engineering",
+  //   date: "June 2022 - Present",
   //   desc: "Working on the web applications using React & Node Js.",
   //   skills: ["HTML", "CSS", "Javascript", "React"],
-  //   // doc: "https://media.discordapp.net/attachments/750764661980397598/1146510994839978066/image.png?width=478&height=638",
-  // },
-
-  // {
-  //   id: 2,
-  //   img: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/hacktoberfest%20logo.jpg",
-  //   role: "Open Source Contributor ",
-  //   company: "Hacktoberfest",
-  //   date: "Nov 2022",
-  //   desc: "Contributing to different open-source projects and learn from industry experts",
-  //   doc: "",
   // },
 ];
 
@@ -159,25 +162,46 @@ export const education = [
 
 export const projects = [
   {
-    id: "loop",
-    title: "LOOP - social media",
-    date: "Jan 2024",
-    description: "A MERN stack social media application with slick UI.",
+    id: "dashboard",
+    title: "Enterprise Microfrontend Dashboard",
+    date: "June 2022 - Oct 2023",
+    description:
+      "Designed and developed a scalable microfrontend dashboard application to integrate multiple business modules into a unified platform for global users.",
     image:
-      "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709117672/docs/gdx013me2fyisz6uqtqz.jpg?_s=public-apps",
+      "https://cdn.dribbble.com/userupload/44518810/file/e044c233bb2685b83801747a93cdd1d8.png?resize=752x564&vertical=center",
     tags: [
-      "React Js",
+      "React JS",
+      "Redux",
       "React Router DOM",
-      "Radix UI",
-      "Cloudinary",
-      "Tailwind CSS",
-      "Google Generative API",
-      "Razorpay",
+      "React Query",
+      "Module Federation",
+      "Docker",
+      "Kubernetes",
+      "Github Actions",
     ],
     category: "web app",
-    github: "https://github.com/mahi137/LOOP-Frontend",
+    github: "https://github.com/mahi137/",
     webapp: "https://loop-frontend-indol.vercel.app/",
-    member: [],
+  },
+  {
+    id: "engagement-platform",
+    title: "Customer Engagement Platform",
+    date: "Nov 2023 - Present",
+    description:
+      "Developed a customer engagement platform with real-time notifications, chat, and analytics dashboard.",
+    image:
+      "https://images.ctfassets.net/ukazlt65o6hl/2MeFfbkdKjO7nbkUkrwiOO/69818479ad6050263dd940c9217763a1/image009.png?w=3840&q=50&fm=webp",
+    tags: [
+      "React Js",
+      "Redux",
+      "TailwindCSS",
+      "ExpressJS",
+      "Framer Motion",
+      "Material UI",
+    ],
+    category: "web app",
+    github: "https://github.com/mahi137/",
+    webapp: "https://dynamic-inventory-table.vercel.app/",
   },
   {
     id: "typing-speed-test",
@@ -185,45 +209,22 @@ export const projects = [
     date: "Jun 2023 - Jul 2023",
     description:
       "Web application where you can check the Typing-speed built using React Js",
-    image:
-      "https://reactjsexample.com/content/images/2021/08/Typing.jpg",
+    image: "https://reactjsexample.com/content/images/2021/08/Typing.jpg",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/mahi137/Typing-Speed-App",
     webapp: "https://typing-speed-app-chi.vercel.app/",
   },
-  {
-    id: "crypto-hunter",
-    title: "Crypto Hunter",
-    date: "Oct 2023 - Oct 2023",
-    description:
-      "A real-time Cryptocyrrency tracker app built using React Js and CoinGecko API 🚀.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/93545845/293004555-b6097143-4bd6-49b5-9d85-0d30bce65893.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240324T063008Z&X-Amz-Expires=300&X-Amz-Signature=2571a50637d3bb4a0ec436aac920f48a5ef37d908642de8639d5875ef2a9f8da&X-Amz-SignedHeaders=host&actor_id=137042377&key_id=0&repo_id=731868840",
-    tags: [
-      "React Js",
-      "Coingecko API",
-      "Chart JS",
-      "Framer Motion",
-      "Material UI",
-    ],
-    category: "web app",
-    github: "https://github.com/mahi137/Crypto-Tracker-Website",
-    webapp: "https://crypto-tracker-website-beta.vercel.app/",
-  },
-  {
-    id: "shopping-cart-website",
-    title: "Shopping-Cart-Website ",
-    date: "Dec 2023",
-    description:
-      "A Shopping Cart Website using React Js 🚀.",
-    image:
-      "data:image/jpeg;base64,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",
-    tags: ["React JS"],
-    category: "web app",
-    github: "https://github.com/mahi137/Shopping-Cart-Website",
-    webapp: "https://shopping-cart-website-delta.vercel.app/",
-  },
+  // {
+  //   id: "shopping-cart-website",
+  //   title: "Shopping-Cart-Website ",
+  //   date: "Dec 2023",
+  //   description: "A Shopping Cart Website using React Js 🚀.",
+  //   image:
+  //   category: "web app",
+  //   github: "https://github.com/mahi137/Shopping-Cart-Website",
+  //   webapp: "https://shopping-cart-website-delta.vercel.app/",
+  // },
   // {
   //   id: 0,
   //   title: "Weather App",
@@ -238,9 +239,29 @@ export const projects = [
   //   webapp: "https://weather-app-two-rouge.vercel.app/",
   //   member: [],
   // },
-
-
- 
+  //  {
+  //   id: "loop",
+  //   title: "Enterprise Microfrontend Dashboard",
+  //   date: "June 2022 - Oct 2023",
+  //   description:
+  //     "Designed and developed a scalable microfrontend dashboard application to integrate multiple business modules into a unified platform for global users.",
+  //   image:
+  //     "https://cdn.dribbble.com/userupload/44518810/file/e044c233bb2685b83801747a93cdd1d8.png?resize=752x564&vertical=center",
+  //   tags: [
+  //     "React JS",
+  //     "Redux",
+  //     "React Router DOM",
+  //     "React Query",
+  //     "Module Federation",
+  //     "Docker",
+  //     "Kubernetes",
+  //     "Github Actions",
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/mahi137/LOOP-Frontend",
+  //   webapp: "https://loop-frontend-indol.vercel.app/",
+  //   member: [],
+  // },
 ];
 
 export const TimeLineData = [
